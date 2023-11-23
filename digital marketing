@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Digital Marketing Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        section {
+            padding: 2em;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Digital Marketing Company</h1>
+        <p>Driving Success in the Digital World</p>
+    </header>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>Welcome to Your Digital Marketing, where we offer a range of services to boost your online presence.</p>
+        <ul>
+            <li>Search Engine Optimization (SEO)</li>
+            <li>Social Media Marketing</li>
+            <li>Email Marketing</li>
+            <li>Content Creation and Marketing</li>
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Your Digital Marketing is a team of dedicated professionals passionate about helping businesses thrive in the digital landscape. With years of experience, we bring innovative solutions to drive your success.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Ready to take your digital presence to the next level? Contact us today!</p>
+        <p>Email: info@yourdigitalmarketing.com</p>
+        <p>Phone: (555) 123-4567</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Digital Marketing</p>
+    </footer>
+</body>
+</html>
